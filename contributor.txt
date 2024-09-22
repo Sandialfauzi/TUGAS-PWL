@@ -1,1 +1,2 @@
-kontributor
+# contributor :
+- Agan fahrizal(5520121001)
